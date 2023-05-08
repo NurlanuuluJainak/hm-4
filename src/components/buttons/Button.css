@@ -1,0 +1,24 @@
+.modalBtn1 {
+  position: relative;
+  top: 110px;
+  left: 350px;
+  width: 95px;
+  height: 60px;
+  color: #fff;
+  border-radius: 15px;
+  font-size: 18px;
+  background-color: rgb(20, 5, 156);
+  border-style: none;
+}
+.modalBtn2 {
+  position: relative;
+  color: #fff;
+  font-size: 18px;
+  top: 50px;
+  left: 480px;
+  width: 140px;
+  height: 60px;
+  border-radius: 15px;
+  background-color: rgb(17, 3, 178);
+  border-style: none;
+}
